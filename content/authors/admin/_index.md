@@ -37,10 +37,10 @@ superuser: true
 user_groups:
   - Group Leader
 last_name: Evans
-role: Associate Professor of Statistics
+role: Professor of Statistical Science
 highlight_name: false
 title: Robin J. Evans
 first_name: Robin
 email: ""
 ---
-Robin Evans is an Associate Professor of Statistics at the University of Oxford, and the Kay Fellow in Statistics at Jesus College. His research interests include distributed causal inference, graphical models, simulation, latent variables and algebraic statistics.
+Robin Evans is a Professor of Statistical Science at the University of Oxford, and the Kay Fellow in Statistics at Jesus College. His research interests include distributed causal inference, graphical models, simulation, latent variables and algebraic statistics.
