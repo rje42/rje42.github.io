@@ -77,5 +77,5 @@ cascade:
   - _target:
       path: /teaching/**
     share: false
-uglyurls: true
-relativeurl: true
+uglyURLs: true
+relativeURLs: true
