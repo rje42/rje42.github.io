@@ -4,7 +4,7 @@ date: 2023-09-07
 authors: ["Robin J. Evans"]
 image:
   focal_point: 'top'
-  max_width: '5cm'
+  max-width: '480px'
 ---
 
 Robin Evans received the 'Recognition of Distinction' award from the University
