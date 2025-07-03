@@ -18,3 +18,4 @@ vendor/
 
 # Ignore folders related to IDEs
 .vscode/
+.Rproj.user
