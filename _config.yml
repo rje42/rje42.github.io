@@ -291,6 +291,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-scholar
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -300,6 +301,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-scholar
   - jemoji
 
 
