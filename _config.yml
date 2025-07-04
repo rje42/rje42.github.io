@@ -212,6 +212,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  group:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -225,6 +228,13 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
@@ -291,7 +301,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-scholar
+  - jekyll/scholar
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -301,9 +311,13 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-scholar
+  - jekyll/scholar
   - jemoji
 
+scholar:
+  source: ./_bibliography
+  bibliography: publications.bib
+  style: apa
 
 # Archives
 #  Type
