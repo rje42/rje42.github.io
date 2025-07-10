@@ -10,4 +10,6 @@ location: "London, UK"
 
 [RSS Discussion Meeting](https://www.youtube.com/watch?v=v7u5ooTkPVs)
 
+[Slides](https://www.stats.ox.ac.uk/~evans/pres/Frugal_RSS_Talk_ho.pdf)
+
 ---

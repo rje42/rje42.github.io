@@ -1,5 +1,5 @@
 ---
-title:
+title: Parameterizing and simulating from causal models
 collection: talks
 type: "Talk"
 permalink: /talks/2023-02-03-upf-seminar

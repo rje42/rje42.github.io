@@ -1,5 +1,5 @@
 ---
-title:
+title: Parameterizing and Simulating from Causal Models
 collection: talks
 type: "Talk"
 permalink: /talks/2023-10-02-warwick-seminar

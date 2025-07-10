@@ -1,5 +1,5 @@
 ---
-title:
+title: "Many Data: Combining Observational and Experimental Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-01-oxford-danish-symposium
