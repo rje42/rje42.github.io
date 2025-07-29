@@ -7,7 +7,7 @@ image:
   max-width: '48px'
 ---
 
-![Robin J. Evans]({{site.baseurl}}/images/me.jpg){: width="300"}
+![Robin J. Evans]({{site.baseurl}}/images/me.jpg){: width="250"}
 
 Robin Evans received the 'Recognition of Distinction' award from the University
 of Oxford, and has therefore been promoted to the title of Professor.  He is 
