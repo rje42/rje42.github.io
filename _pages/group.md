@@ -16,7 +16,7 @@ We love Causal Inference!
 ### DPhil Students
 * **[Xi Lin](https://www.xilinstats.com/)**: Data fusion, causal simulation. [Google Scholar](https://scholar.google.com/citations?user=j8O8DLAAAAAJ)
 * **Daniel Manela**: Copulas, causal simulation. [Google Scholar](https://scholar.google.com/citations?user=ZinuBB4AAAAJ)
-* **Linying Yang**: Distribution shift, robustness in causal inference. [Google Scholar](https://scholar.google.com/citations?user=TEmSQBQAAAAJ)
+* **[Linying Yang](https://linyingyang.github.io/)**: Distribution shift, robustness in causal inference. [Google Scholar](https://scholar.google.com/citations?user=TEmSQBQAAAAJ)
 * **Yasin Ibrahim**: Causal generative models for medical imaging. [Google Scholar](https://scholar.google.com/citations?user=Qztkr4AAAAAJ)
 * **Alex Gruen**: Data fusion, causal simulation. 
 * **Ruizi Yan**: Generative models, combining data sets. 
