@@ -21,6 +21,9 @@ We love Causal Inference!
 * **Alex Gruen**: Data fusion, causal simulation. 
 * **Ruizi Yan**: Generative models, combining data sets. 
 
+### Research Intern
+* **Jonathan Rollings**: Copulas and graphical models.
+
 ### Alumni
 * **Jake Fawkes**: Thesis: _Data Quality in Causal Machine Learning with Applications to Algorithmic Fairness_ (2025), Kernel-based causal inference, fairness [Google Scholar](https://scholar.google.com/citations?user=BRLtuacAAAAJ)
 * **Ryan Carey**: Thesis: _Constraints on Agents in Causal Models_ (2024), Quantitative Researcher, Optiver
