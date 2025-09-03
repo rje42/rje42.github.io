@@ -2,13 +2,11 @@
 title: "Graphical Models"
 collection: teaching
 type: "Masters-level course"
-permalink: /teaching/2024-graphical-models
+permalink: /teaching/2025-graphical-models
 venue: "University of Oxford, Department of Statistics"
-date: 2024-10-01
+date: 2025-10-01
 location: "Oxford, UK"
 ---
-
-**This page is from 2024.**
 
 This Part C, OMMS and MSc module covers graphical models, exploring their theory and applications in statistical analysis.
 
@@ -18,9 +16,9 @@ This course delves into the principles and applications of graphical models, pro
 
 ### Material
 
-PDF [lecture notes](https://www.stats.ox.ac.uk/~evans/gms/lecturenotes_24.pdf) are available, as are [online notes](https://www.stats.ox.ac.uk/~evans/gms/_book/).
+PDF [lecture notes](https://www.stats.ox.ac.uk/~evans/gms/lecturenotes_25.pdf) are available, as are [online notes](https://www.stats.ox.ac.uk/~evans/gms/_book/).
 
-[Slides](https://www.stats.ox.ac.uk/~evans/gms/slides_24_ho.pdf) ([4-up version for printing](https://www.stats.ox.ac.uk/~evans/gms/slides_24_4up.pdf))
+[Slides](https://www.stats.ox.ac.uk/~evans/gms/slides_25_ho.pdf) ([4-up version for printing](https://www.stats.ox.ac.uk/~evans/gms/slides_25_4up.pdf))
 
 It is **strongly** recommended that you make several attempts to solve each problem, _before_ consulting the solutions.
 
@@ -30,7 +28,7 @@ It is **strongly** recommended that you make several attempts to solve each prob
 * **[Sheet 3](https://www.stats.ox.ac.uk/~evans/gms/w3.pdf)**
 * **[Sheet 4](https://www.stats.ox.ac.uk/~evans/gms/w4.pdf)**
 
-Registered students should also see the [canvas page](https://canvas.ox.ac.uk/courses/274755) for further material.
+Registered students should also see the [canvas page](https://canvas.ox.ac.uk/courses/295116) for further material.
 
 
 ### Key Topics
