@@ -8,7 +8,7 @@ date: 2024-10-01
 location: "Oxford, UK"
 ---
 
-**This page is from 2024.**
+**[This page is from 2024.]**
 
 This Part C, OMMS and MSc module covers graphical models, exploring their theory and applications in statistical analysis.
 
