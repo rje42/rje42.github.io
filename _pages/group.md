@@ -19,6 +19,7 @@ We love Causal Inference!
 * **Yasin Ibrahim**: Causal generative models for medical imaging. [Google Scholar](https://scholar.google.com/citations?user=Qztkr4AAAAAJ)
 * **Alex Gruen**: Data fusion, causal simulation. 
 * **Ruizi Yan**: Generative models, combining data sets. 
+* **Kyra Delray**: Wearables, multimodal data sets.
 * **Ayub Kharel**: Generative models, AI safety.
 * **Christophe Muller**: Data linkage and fusion.
 
